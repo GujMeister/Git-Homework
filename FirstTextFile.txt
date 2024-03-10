@@ -1,0 +1,1 @@
+შექმენით საქაღალდე (GitHomework) და დაამატეთ ფაილი (FirstTextFile.txt)
